@@ -1,0 +1,71 @@
+normal: 
+    - period: 1
+      start: "7:30 AM"
+      end: "8:17 AM"
+    - period: 2
+      start: "8:22 AM"
+      end: "9:09 AM"
+    - period: 3
+      start: "9:14 AM"
+      end: "10:06 AM"
+    - period: 4
+      start: "10:11 AM"
+      end: "10:58 AM"
+    - period: 5
+      start: "11:03 AM"
+      end: "11:50 AM"
+    - period: 6
+      start: "11:55 AM"
+      end: "12:42 PM"
+    - period: 7
+      start: "12:47 PM"
+      end: "1:34 PM"
+    - period: 8
+      start: "1:39 PM"
+      end: "2:26 PM"
+    
+late_start:
+    - period: 1
+      start: "8:00 AM"
+      end: "8:43 AM"
+    - period: 2
+      start: "8:48 AM"
+      end: "9:31 AM"
+    - period: 3
+      start: "9:36 AM"
+      end: "10:24 AM"
+    - period: 4
+      start: "10:29 AM"
+      end: "11:12 AM"
+    - period: 5
+      start: "11:17 AM"
+      end: "12:00 PM"
+    - period: 6
+      start: "12:05 PM"
+      end: "12:48 PM"
+    - period: 7
+      start: "12:53 PM"
+      end: "1:36 PM"
+    - period: 8
+      start: "1:41 PM"
+      end: "2:26 PM"
+
+late_start_dates:
+- 2018-08-22
+- 2018-09-05
+- 2018-09-19
+- 2018-10-03
+- 2018-10-17
+- 2018-10-31
+- 2018-11-14
+- 2018-11-28
+- 2018-12-12
+- 2019-01-16
+- 2019-01-30
+- 2019-02-13
+- 2019-02-27
+- 2019-03-13
+- 2019-04-03
+- 2019-04-17
+- 2019-05-01
+- 2019-05-15
