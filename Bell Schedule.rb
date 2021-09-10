@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-%w(time rubygems yaml).each{|r| require r}
+%w(time pathname rubygems yaml).each{|r| require r}
 date = Date.today()
 class Integer
 	def ordinal
