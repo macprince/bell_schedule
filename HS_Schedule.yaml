@@ -59,7 +59,7 @@ raider_way:
       end: "8:59 AM"
     - period: 3
       start: "9:04 AM"
-      end: "9:34 AM"
+      end: "10:16 AM"
     - period: 4
       start: "10:21 AM"
       end: "11:08 AM"
