@@ -14,9 +14,8 @@ class Integer
 end
 
 schedule_file = File.open(Pathname(__dir__)+'HS_Schedule.yaml') {|yf| YAML::load(yf,permitted_classes: [Date])}
-late_starts = schedule_file['late_start_dates']
 this_period = String.new()
-if late_starts.include?(date) then
+if date.wednesday?
   schedule_type="late_start"
 else
   schedule_type="normal"
